@@ -1,0 +1,12 @@
+object Form_main: TForm_main
+  Left = 0
+  Top = 0
+  Caption = 'WK Technology - TelaPedidos'
+  ClientHeight = 480
+  ClientWidth = 640
+  WindowState = wsMaximized
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+end
